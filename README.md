@@ -110,7 +110,7 @@
  - For setting up Truffle (more detailed instruction are avalaible [here](https://github.com/truffle-box/react-box) )  
  - Steps :
    - Clone the repo
-   > $ git clone https://github.com/nikhildsahu/E-Certify.git
+   > $ git clone https://github.com/Chaiudbbhd/certchain-blockchain.git
    - Setup Truffle
      - Install truffle
      > $ npm install -g truffle
