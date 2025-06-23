@@ -140,10 +140,7 @@
   ## Contributing
   - We're are open to enhancements & bug-fixes.
   - Feel free to add issues and submit patches.
-  ## Authors
-  - Atharva Udapure - [atharvau](https://github.com/atharvau)
-  - Nikhil Sahu - [nikhildsahu](https://github.com/nikhildsahu)
-  - Gaurav Sharma - [gauravsharma-gs](https://github.com/gauravsharma-gs)
+
 ## License
-This project is licensed under the MIT - see the [LICENSE](https://github.com/nikhildsahu/E-Certify/blob/master/LICENSE) file for details.
+This project is licensed under the MIT - see the [LICENSE](https://github.com/Chaiudbbhd/certchain-blockchain/blob/master/LICENSE) file for details.
   
